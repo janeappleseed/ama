@@ -6,6 +6,8 @@ If you feel like having a private conversation, please briefly describe the topi
 
 Please be advised that I reserve the right to edit or delete anything on this AMA.
 
+[<img src="ask.png" alt="Ask!" width="130">](../../issues/new)
+
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
