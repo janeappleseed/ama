@@ -6,7 +6,7 @@ If you feel like having a private conversation, please briefly describe the topi
 
 Please be advised that I reserve the right to edit or delete anything on this AMA.
 
-[<img src="ask.png" alt="Ask!" width="130">](../../issues/new)
+[![Ask now](https://img.shields.io/badge/ask-now-blue.svg?maxAge=86400)](../../issues/new)
 
 ## License
 
